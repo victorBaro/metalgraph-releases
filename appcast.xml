@@ -6,6 +6,23 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
 
+<item>
+            <title>Version 1.0.0b1</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.0b1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.0b1</h2>
+                <ul><li>First beta release</li></ul>
+            ]]></description>
+            <pubDate>Wed, 01 Jan 2026 19:30:00 +0100</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.0.0b1/MetalGraph-1.0.0b1.dmg"
+                sparkle:edSignature="N4OC4s4FWPjP8PI/QoEL1cIGynUgjIYGX51i/maXxw4nG2hE/X0BoLyxrtQWF7TsD47DvmdIt5g8p98RBCf7Bg=="
+                length="6734230"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
         <!-- Add new versions above this line -->
 
     </channel>
