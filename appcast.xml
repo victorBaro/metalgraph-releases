@@ -92,6 +92,22 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+        <item>
+            <title>Version 1.0.4</title>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.4</h2><ul><li>Added link to documentation</li></ul>
+            ]]></description>
+            <pubDate>Sat, 03 Jan 2026 07:02:21 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.0.4/MetalGraph.dmg"
+                sparkle:edSignature="WM7dx7UsFdu2826RallX8KEh0BKXabpJrqUpUFYZiBkw0EqOkNhAXjT/x2qyzX/BIAQspeLwljc+hecxrHbrDA=="
+                length="6908094"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
         <!-- Add new versions above this line -->
 
     </channel>
