@@ -108,6 +108,22 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+        <item>
+            <title>Version 1.0.5</title>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.5</h2><ul><li>  Multi-Window Support</li></ul>
+            ]]></description>
+            <pubDate>Sun, 04 Jan 2026 09:06:42 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.0.5/MetalGraph.dmg"
+                sparkle:edSignature="vsrh0zOUlkVXloYQifqg1WPy8/P8feka65ORYzI0gkTQMqa3Ae4Z+loD1IgPbOO7k0RJHqtjoRpoxGWjQbZBAQ=="
+                length="6939964"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
         <!-- Add new versions above this line -->
 
     </channel>
