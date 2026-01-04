@@ -113,7 +113,14 @@
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>What's New in 1.0.5</h2><ul><li>  Multi-Window Support</li></ul>
+                <h2>What's New in 1.0.5</h2>
+                <ul>
+                    <li><b>Multi-Window Support:</b> Each window now has independent state - work on multiple shader graphs simultaneously</li>
+                    <li><b>Improved Workflow:</b> New "Open in New Window" option when loading examples with unsaved work</li>
+                    <li><b>Window Close Confirmation:</b> Prevents accidental loss of unsaved changes</li>
+                    <li><b>Code Panel:</b> Swift syntax highlighting and smart code generation</li>
+                    <li><b>Layout Fixes:</b> Resizable sidebars with stable behavior</li>
+                </ul>
             ]]></description>
             <pubDate>Sun, 04 Jan 2026 09:06:42 -0800</pubDate>
             <enclosure
