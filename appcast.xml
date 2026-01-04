@@ -131,6 +131,26 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
 
+        <item>
+            <title>Version 1.0.6</title>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.6</h2>
+                <ul>
+                    <li><b>Graph Generation:</b> Now requires a license (closes trial bypass)</li>
+                    <li><b>Bug Fixes:</b> Minor stability improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sat, 04 Jan 2026 10:30:00 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.0.6/MetalGraph.dmg"
+                sparkle:edSignature="+Oj2HD3XRfx6TAdIqq2vLtjRDrUqjBoBbSY3zq8d/bpVB4uMZESRmafwAKWa+sbxL+a9mJeQQmVcG84lexRnBA=="
+                length="6941032"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
         <!-- Add new versions above this line -->
 
     </channel>
