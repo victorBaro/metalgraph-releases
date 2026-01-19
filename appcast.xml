@@ -152,6 +152,34 @@
         </item>
 
         <!-- Add new versions above this line -->
+        <item>
+            <title>Version 1.0.7</title>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.7</h2><pre>
+ MetalGraph is now also available on the AppStore and on iPad!
+
+The app is waiting review and will be available soon.
+No need for your to move to the Mac app store. The reason for being available there is because so many users were asking for the iPad version, so I might as well u$
+
+Gumroad licenses are valid for iPad, just enter your license number to unlock full version.
+Email support@metal.graphics if something isn't working.
+
+Bug fixes and improvements:
+- Improved multiwindow support
+- Fix touch lens example
+- Updated license UI and backend</pre>
+            ]]></description>
+            <pubDate>Mon, 19 Jan 2026 07:13:09 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.0.7/MetalGraph.dmg"
+                sparkle:edSignature="dL0KiU8AqaS0Jv0pkz9/Dxn395c9WCpE+66wEyxRNsu0cDmxt0Kb96ZKzrAB70R4/paedmmfSmRlk9aMjJGYBQ=="
+                length="7033022"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
 
     </channel>
 </rss>
