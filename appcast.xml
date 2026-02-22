@@ -153,6 +153,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.8</title>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.8</h2><ul><li>Fixed a bug where exported Metal shader code failed to compile in Xcode with "use of undeclared identifier 'uniforms'". Shader parameters are now exported as named</li><li>arguments in the shader signature.</li><li>Node labels are now reflected in generated variable names — label a node "Radius" and the exported code uses float radius throughout.</li><li>The inspector now shows the exact variable name for any selected node, making it easy to identify and edit parameters in exported code.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 22 Feb 2026 15:28:04 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.0.8/MetalGraph.dmg"
+                sparkle:edSignature="rs2c11Xrdp6+gk8CyrnRu9iPffz7fO/lwG8jydSAkLmfarZwSuPFiB3YlvnPSzwrm+YIxUfEIfZdkbu5uZ1gCg=="
+                length="7108227"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.7</title>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
