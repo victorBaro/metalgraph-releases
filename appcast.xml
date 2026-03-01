@@ -153,6 +153,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.0.9</title>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.0.9</h2><ul><li>- Code Panel</li><li>The generated code now opens in a dedicated panel — detached window on macOS, floating draggable panel on iPad.</li><li>The panel stays in sync with whichever document window is focused.</li><li>- Bug Fixes</li><li>Fixed exported Metal shader code failing to compile: connected node inputs (e.g. Step edge, Smoothstep edge0/edge1) were incorrectly appearing as shader parameters.</li></ul>
+            ]]></description>
+            <pubDate>Sun, 01 Mar 2026 08:51:09 -0800</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.0.9/MetalGraph.dmg"
+                sparkle:edSignature="pVHwbb9KRI3jUhqiLzCZB7oK6Tf2OY5WYYmHmu3E5+qWNtY6cmBDd8l5MQpfb6sqNYeagDnxVQqR7hiwrvt8Cw=="
+                length="7123364"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.8</title>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
