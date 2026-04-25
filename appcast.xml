@@ -153,6 +153,22 @@
 
         <!-- Add new versions above this line -->
         <item>
+            <title>Version 1.10.0</title>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>What's New in 1.10.0</h2><ul><li>Bug fixes and improvements</li><li>- Drop a wire end in empty space to open a searchable picker that creates and connects a new node in one motion.</li><li>- Drag a node from the sidebar onto the canvas to place it where you drop.</li><li>- Drag a wire from any input port (not just outputs) to start a connection.</li></ul>
+            ]]></description>
+            <pubDate>Sat, 25 Apr 2026 06:54:20 -0700</pubDate>
+            <enclosure
+                url="https://github.com/victorBaro/metalgraph-releases/releases/download/v1.10.0/MetalGraph.dmg"
+                sparkle:edSignature="ChY/Cre3urLgApJgotzKECbPAK4KJYmrCfsUptJFKVDVk9eG1voO1MOFB4GikSAGd3I3UIWmSLRbkUss+ehDDA=="
+                length="7208528"
+                type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+
+        <item>
             <title>Version 1.0.9</title>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
